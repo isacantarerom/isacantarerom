@@ -18,13 +18,14 @@ I gravitate toward ambiguity but only until we define it properly.
 
 Languages: 
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 
 Backend: 
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=spring)
-![REST](https://img.shields.io/badge/-REST_API-000)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white)
 
 Frontend: 
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)
@@ -34,10 +35,10 @@ Frontend:
 
 
 Currently Deepening:
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![Django](https://img.shields.io/badge/-Django-000?&logo=django)
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 
 
 ---
