@@ -17,7 +17,7 @@ I gravitate toward ambiguity but only until we define it properly.
 ## 🛠 Tech Stack
 
 Languages: 
-![C#](https://img.shields.io/badge/-C%23-000?&logo=c-sharp)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
